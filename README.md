@@ -19,13 +19,13 @@ Gosto de trabalhar em projetos que impactam positivamente a vida das pessoas e a
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-02569B?style=for-the-badge&logo=django&logoColor=white)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo302&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo302&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+-->
 ## 📫 Como me encontrar
 
 - ✉️ Email: danilofelix827@gmail.com
